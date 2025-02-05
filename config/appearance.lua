@@ -62,6 +62,7 @@ Config.visual_bell = {
 }
 
 ---window appearance
+Config.initial_cols = 120
 Config.window_padding = { left = 2, right = 2, top = 2, bottom = 1 }
 Config.integrated_title_button_alignment = "Right"
 Config.integrated_title_button_style = "Windows"

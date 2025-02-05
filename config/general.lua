@@ -46,7 +46,7 @@ if fs.platform().is_win then
   }
 end
 
-Config.default_cwd = fs.home()
+Config.default_cwd = "d:\\code"
 
 -- ref: https://wezfurlong.org/wezterm/config/lua/SshDomain.html
 Config.ssh_domains = {}
